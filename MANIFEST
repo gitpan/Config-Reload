@@ -1,0 +1,11 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+lib/Config/Reload.pm
+t/basic.t
+t/compile.t
+t/data/invalid.json
+t/data/valid.json
