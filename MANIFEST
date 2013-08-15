@@ -9,3 +9,4 @@ t/basic.t
 t/compile.t
 t/data/invalid.json
 t/data/valid.json
+t/reload.t
