@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Config-Reload,
-version 0.2:
+version 0.21:
 
   Load config files, reload when files changed.
 

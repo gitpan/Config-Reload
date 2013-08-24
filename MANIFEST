@@ -7,6 +7,6 @@ README
 lib/Config/Reload.pm
 t/basic.t
 t/compile.t
-t/data/invalid.json
-t/data/valid.json
+t/data/invalid.pl
+t/data/valid.pl
 t/reload.t
